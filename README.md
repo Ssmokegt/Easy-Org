@@ -39,7 +39,8 @@ Nombre | Puesto | Departamento | Supervisor | Color
 Puedes generar la plantilla desde la app con el botón "Exportar plantilla Excel".
 
 ## Captura de pantalla
-![alt text](image.png)
+![imagen](https://github.com/user-attachments/assets/b3309d04-3d22-4446-bec1-cd11a73ec2e0)
+
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
 
