@@ -11,7 +11,8 @@ Easy-Org es una aplicación de escritorio en Python para crear, editar y exporta
 - **Persistencia automática:** Guarda y carga los datos automáticamente en JSON.
 - **Notificaciones visuales:** Mensajes de éxito/error integrados en la interfaz.
 
-## Instalación
+## Instalación 
+Te recomiendo descargar el archivo zip ya compilado y listo para usar en Windows siguiendo el siguiente enlace https://github.com/Ssmokegt/Easy-Org/releases/tag/Organigrama
 1. **Clona el repositorio:**
    ```sh
    git clone https://github.com/tu-usuario/Easy-Org.git
